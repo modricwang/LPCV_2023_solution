@@ -1,4 +1,4 @@
-# LPCV 2023 solution
+# LPCV 2023 solution by Team ModelTC
 
 ![Static Badge](https://img.shields.io/badge/LPCV_2023-Winner-blue)
 
